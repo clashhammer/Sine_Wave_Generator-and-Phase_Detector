@@ -34,7 +34,7 @@ The phase meter is a non-contact AC voltage detector designed to detect live wir
 
 | Quantity | Part |
 |---:|---|
-| 1x | LM358 Operational Amplifier |
+| 1x | LM358 Operational Amplifier IC |
 | 1x | 2N2222 NPN Transistor |
 | 1x | 10kΩ Potentiometer |
 | 1x | 1 MΩ Resistor |
