@@ -21,7 +21,9 @@ A compact electronic signal generator based on a Wien-bridge oscillator. An UA74
 | Several | Jumper Wires |
 
 Schematic:
-<img width="1600" height="1184" alt="image" src="https://github.com/user-attachments/assets/659041c9-0a6b-4db7-991f-40008ccd38aa" />
+<img width="1450" height="1184" alt="image" src="https://github.com/user-attachments/assets/659041c9-0a6b-4db7-991f-40008ccd38aa" />
 
 How it looks like on the breadboard:
-<img width="1200" height="1600" alt="Untitled Design (3)" src="https://github.com/user-attachments/assets/65719b5d-da4a-4b17-a33a-89da0e35d902" />
+<img width="972" height="877" alt="Untitled Design (5)" src="https://github.com/user-attachments/assets/af688907-b03c-4eb6-a57c-00076d991ce3" />
+
+
